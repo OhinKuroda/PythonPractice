@@ -5,3 +5,4 @@ print ("hello world v2")
 
 #does this fix 
 
+#maybe vscode doesnt like python
